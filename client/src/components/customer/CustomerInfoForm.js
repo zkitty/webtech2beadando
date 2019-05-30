@@ -52,8 +52,7 @@ class CustomerInfoForm extends React.Component {
                                 this.setState({ phoneNumber: phoneNumber });
                                 customerStore._customer.phoneNumber = phoneNumber;
                             }}
-                            type="phone"
-                            pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}"/>
+                            type="phone"/>
                     </div>
                 </div>
             </form>
