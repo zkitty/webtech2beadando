@@ -1,0 +1,302 @@
+[
+  {
+    "parts": {
+      "tiltRod": 1,
+      "hinges": 14,
+      "louvers": 8,
+      "shutterStaples": 7,
+      "rails": 1
+    },
+    "window": {
+      "width": 200,
+      "height": 200,
+      "panels": 1,
+      "mountSize": 20
+    },
+    "price": 307,
+    "installationDate": {
+      "year": 2018,
+      "month": 4,
+      "day": 13,
+      "hours": 8
+    },
+    "customer": {
+      "name": "Albert Béla",
+      "email": "albert.bela@gmail.com",
+      "phoneNumber": "0620213541"
+    },
+    "isPaid": false,
+    "isAssembled": false,
+    "isInvoiced": false
+  },
+  {
+    "parts": {
+      "tiltRod": 1,
+      "hinges": 18,
+      "louvers": 10,
+      "shutterStaples": 9,
+      "rails": 1
+    },
+    "window": {
+      "width": 70,
+      "height": 100,
+      "panels": 4,
+      "mountSize": 20
+    },
+    "price": 379,
+    "installationDate": {
+      "year": 2017,
+      "month": 2,
+      "day": 11,
+      "hours": 1
+    },
+    "customer": {
+      "name": "Cecil Dénes",
+      "email": "cecil.denes@gmail.com",
+      "phoneNumber": "06201235741"
+    },
+    "isPaid": false,
+    "isAssembled": false,
+    "isInvoiced": false
+  },
+  {
+    "parts": {
+      "tiltRod": 1,
+      "hinges": 22,
+      "louvers": 12,
+      "shutterStaples": 11,
+      "rails": 1
+    },
+    "window": {
+      "width": 300,
+      "height": 200,
+      "panels": 2,
+      "mountSize": 20
+    },
+    "price": 451,
+    "installationDate": {
+      "year": 2019,
+      "month": 6,
+      "day": 10,
+      "hours": 3
+    },
+    "customer": {
+      "name": "Elemér Ferenc",
+      "email": "e.ferenc@gmail.com",
+      "phoneNumber": "06203567142"
+    },
+    "isPaid": false,
+    "isAssembled": true,
+    "isInvoiced": true
+  },
+  {
+    "parts": {
+      "tiltRod": 1,
+      "hinges": 20,
+      "louvers": 11,
+      "shutterStaples": 10,
+      "rails": 1
+    },
+    "window": {
+      "width": 100,
+      "height": 130,
+      "panels": 1,
+      "mountSize": 13
+    },
+    "price": 415,
+    "installationDate": {
+      "year": 2018,
+      "month": 2,
+      "day": 13,
+      "hours": 4
+    },
+    "customer": {
+      "name": "Géza Hedvig",
+      "email": "geza.h@gmail.com",
+      "phoneNumber": "06305413541"
+    },
+    "isPaid": false,
+    "isAssembled": false,
+    "isInvoiced": false
+  },
+  {
+    "parts": {
+      "tiltRod": 1,
+      "hinges": 10,
+      "louvers": 6,
+      "shutterStaples": 5,
+      "rails": 1
+    },
+    "window": {
+      "width": 200,
+      "height": 400,
+      "panels": 3,
+      "mountSize": 20
+    },
+    "price": 235,
+    "installationDate": {
+      "year": 2018,
+      "month": 4,
+      "day": 23,
+      "hours": 6
+    },
+    "customer": {
+      "name": "Ilona János",
+      "email": "i.janos@gmail.com",
+      "phoneNumber": "0620111322"
+    },
+    "isPaid": false,
+    "isAssembled": true,
+    "isInvoiced": true
+  },
+  {
+    "parts": {
+      "tiltRod": 2,
+      "hinges": 6,
+      "louvers": 20,
+      "shutterStaples": 19,
+      "rails": 2
+    },
+    "window": {
+      "width": 100,
+      "height": 100,
+      "panels": 1,
+      "mountSize": 10
+    },
+    "price": 678,
+    "installationDate": {
+      "year": 2019,
+      "month": 1,
+      "day": 14,
+      "hours": 7
+    },
+    "customer": {
+      "name": "Kálmán László",
+      "email": "kalman01@gmail.com",
+      "phoneNumber": "06209987412"
+    },
+    "isPaid": true,
+    "isAssembled": true,
+    "isInvoiced": false
+  },
+  {
+    "parts": {
+      "tiltRod": 1,
+      "hinges": 18,
+      "louvers": 10,
+      "shutterStaples": 9,
+      "rails": 1
+    },
+    "window": {
+      "width": 200,
+      "height": 200,
+      "panels": 2,
+      "mountSize": 20
+    },
+    "price": 379,
+    "installationDate": {
+      "year": 2019,
+      "month": 4,
+      "day": 24,
+      "hours": 4
+    },
+    "customer": {
+      "name": "Mihály Nóra",
+      "email": "mihaly.nora@gmail.com",
+      "phoneNumber": "06201123541"
+    },
+    "isPaid": false,
+    "isAssembled": false,
+    "isInvoiced": false
+  },
+  {
+    "parts": {
+      "tiltRod": 2,
+      "hinges": 46,
+      "louvers": 24,
+      "shutterStaples": 23,
+      "rails": 2
+    },
+    "window": {
+      "width": 150,
+      "height": 200,
+      "panels": 1,
+      "mountSize": 22
+    },
+    "price": 918,
+    "installationDate": {
+      "year": 2019,
+      "month": 10,
+      "day": 11,
+      "hours": 2
+    },
+    "customer": {
+      "name": "Olga Péter",
+      "email": "olgap0121@gmail.com",
+      "phoneNumber": "06307113541"
+    },
+    "isPaid": true,
+    "isAssembled": false,
+    "isInvoiced": true
+  },
+  {
+    "parts": {
+      "tiltRod": 2,
+      "hinges": 36,
+      "louvers": 14,
+      "shutterStaples": 24,
+      "rails": 2
+    },
+    "window": {
+      "width": 100,
+      "height": 220,
+      "panels": 3,
+      "mountSize": 20
+    },
+    "price": 818,
+    "installationDate": {
+      "year": 2019,
+      "month": 9,
+      "day": 11,
+      "hours": 2
+    },
+    "customer": {
+      "name": "Róbert Sándor",
+      "email": "robert.sandor@gmail.com",
+      "phoneNumber": "06707113541"
+    },
+    "isPaid": true,
+    "isAssembled": false,
+    "isInvoiced": true
+  },
+  {
+    "parts": {
+      "tiltRod": 2,
+      "hinges": 33,
+      "louvers": 16,
+      "shutterStaples": 23,
+      "rails": 2
+    },
+    "window": {
+      "width": 100,
+      "height": 200,
+      "panels": 2,
+      "mountSize": 20
+    },
+    "price": 803,
+    "installationDate": {
+      "year": 2019,
+      "month": 3,
+      "day": 11,
+      "hours": 2
+    },
+    "customer": {
+      "name": "Szabolcs Tivadar",
+      "email": "tivadar02@gmail.com",
+      "phoneNumber": "06701232413"
+    },
+    "isPaid": true,
+    "isAssembled": false,
+    "isInvoiced": true
+  }
+]

@@ -1,0 +1,23 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+@import "../node_modules/bootstrap/scss/variables";
+
+$button-color: #aa86c6;
+
+.logo {
+  width: 100%;
+  height: 200px;
+  object-fit: contain;
+}
+
+body {
+  background: azure;
+}
+
+
+.btn-info {
+  @include button-variant($button-color, darken($button-color, 7.5%), darken($button-color, 10%), lighten($button-color,5%), lighten($button-color, 10%), darken($button-color,30%));
+}
+
+.btn-outline-info {
+  @include button-outline-variant($button-color, #222222, lighten($button-color,5%), $button-color);
+}
